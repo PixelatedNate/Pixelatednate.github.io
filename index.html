@@ -5,18 +5,125 @@
 <header>
 <div style="background-color:#85adad;color:white;padding:10px;">
 <div class = "navbar">
-<b><u><p align="center">Home</u> &nbsp;     
-<u>About Me </u>&nbsp;
+<b><u><p align="center">Index</u>&nbsp;      
+<u> About Me</u> &nbsp;
 <u>My Project</p></b></u>
 </div>
 </div>
 
 &nbsp;
 <center><img src="https://i.ibb.co/X5NZ9YJ/NJ.png" alt="NJ" border="0">
+<p><b>Graphic Designer. Video Game Enthusiast. IT Student.</p></b>
 <p><u><b>Student ID:</u></b> s3806782</p>
-<p><u><b>E:</u></b> Nathan.Jenkins1012@gmail.com</p>
-<p><u><b>Github Repo:</u></b> </p>
+<p><u><b>Email:</u></b> Nathan.Jenkins1012@gmail.com</p>
+<p><u><b>Github Repo: </u></b> <a href="https://github.com/PixelatedNate/Pixelatednate.github.io">Pixelated Nate's Repo</a></p>
 </center>
 <header>
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<div style="text-align:center">
+  <h2>Previous Works</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<!-- The four columns -->
+<div class="row">
+  <div class="column">
+<img src="https://i.ibb.co/41kyzkz/WIP-Image-1.jpg" alt="Dark World Platformer Work in Progress" border="1" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+<img src="https://i.ibb.co/n6R5RgR/WIP-Image-2.jpg" alt="RPG Work in Progress" border="1" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+<img src="https://i.ibb.co/kQ7qybL/WIP-Image-5.jpg" alt="First 3D Attempt" border="1" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+<img src="https://i.ibb.co/Bs4bDmP/WIP-Image-7.jpg" alt="Demon Platformer Work In Progress" border="1" style="width:100%" onclick="myFunction(this);">
+  </div>
+</div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:75%">
+  <div id="imgtext"></div>
+</div>
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
+
 </body>
 </html>
