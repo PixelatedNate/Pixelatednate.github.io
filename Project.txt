@@ -7,7 +7,7 @@
 <div class = "navbar">
 <b><u><p align="center"> <a href="https://PixelatedNate.github.io/index.html" title="Home">Home</a></u>&nbsp;      
 <u> <a href="https://PixelatedNate.github.io/about.html" title="About Me">About Me</a></u> &nbsp;
-<u><a href="https://PixelatedNate.github.io/project.html" title="My Project">My Project</a></p></b></u>
+<u>My Project</p></b></u>
 </div>
 </div>
 </body>
