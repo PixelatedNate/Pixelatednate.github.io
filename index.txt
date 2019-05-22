@@ -5,9 +5,9 @@
 <header>
 <div style="background-color:#85adad;color:white;padding:10px;">
 <div class = "navbar">
-<b><u><p align="center">Index</u>&nbsp;      
+<b><u><p align="center">Home</u>&nbsp;      
 <u> About Me</u> &nbsp;
-My Project</p></b></u>
+<u>My Project</p></b></u>
 </div>
 </div>
 
@@ -15,7 +15,7 @@ My Project</p></b></u>
 <center><img src="https://i.ibb.co/X5NZ9YJ/NJ.png" alt="NJ" border="0">
 <p><b>Graphic Designer. Video Game Enthusiast. IT Student.</p></b>
 <p><u><b>Student ID:</u></b> s3806782</p>
-<p><u><b>E:</u></b> Nathan.Jenkins1012@gmail.com</p>
+<p><u><b>Email:</u></b> Nathan.Jenkins1012@gmail.com</p>
 <p><u><b>Github Repo: </u></b> <a href="https://github.com/PixelatedNate/Pixelatednate.github.io">Pixelated Nate's Repo</a></p>
 </center>
 <header>
@@ -96,10 +96,10 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-<img src="https://i.ibb.co/RNv0LjJ/WIP-Image-1.jpg" alt="Platformer Work in Progress" border="1" style="width:100%" onclick="myFunction(this);">
+<img src="https://i.ibb.co/41kyzkz/WIP-Image-1.jpg" alt="Evil Platformer Work in Progress" border="1" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-<img src="https://i.ibb.co/5KJ9TF7/WIP-Image-2.jpg" alt="RPG Work in Progress" border="1" style="width:100%" onclick="myFunction(this);">
+<img src="https://i.ibb.co/n6R5RgR/WIP-Image-2.jpg" alt="RPG Work in Progress" border="1" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
 <img src="https://i.ibb.co/kQ7qybL/WIP-Image-5.jpg" alt="First 3D Attempt" border="1" style="width:100%" onclick="myFunction(this);">
