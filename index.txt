@@ -1,8 +1,22 @@
+<!DOCTYPE html>
 <html>
 <body>
+<body bgcolor="#e6faff">
 <header>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<div style="background-color:#85adad;color:white;padding:10px;">
+<div class = "navbar">
+<b><u><p align="center">Home</u> &nbsp;     
+<u>About Me </u>&nbsp;
+<u>My Project</p></b></u>
+</div>
+</div>
+
+&nbsp;
+<center><img src="https://i.ibb.co/X5NZ9YJ/NJ.png" alt="NJ" border="0">
+<p><u><b>Student ID:</u></b> s3806782</p>
+<p><u><b>E:</u></b> Nathan.Jenkins1012@gmail.com</p>
+<p><u><b>Github Repo:</u></b> </p>
+</center>
 <header>
 </body>
 </html>

@@ -1,0 +1,16 @@
+<html>
+<body>
+<style>
+body {
+    background-color: background-color:#b3f0ff>
+}
+</style>
+<header>
+<div style="background-color:black;color:white;padding:20px;">
+</div>
+<center>
+<h1>About Me</h1>
+</center>
+<header>
+</body>
+</html>
