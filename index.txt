@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
 <body>
-<body bgcolor="#e6faff">
+<body bgcolor="#e6f7ff">
 <header>
-<div style="background-color:#85adad;color:white;padding:10px;">
+<div style="background-color:#002333;color:white;padding:10px;">
 <div class = "navbar">
-<b><u> <a href="https://PixelatedNate.github.io/index.html" title="Home">Home</a></u> &nbsp; 
+<center>
+<b><u> <a <img src="https://i.ibb.co/jkxHD47/Home-Image.png" alt="Home-Image" border="1"> href="https://PixelatedNate.github.io/index.html" title="Home">Home</a></u> &nbsp; 
 <u> <a href="https://PixelatedNate.github.io/about.html" title="About Me">About Me</a></u> &nbsp;
 <u><a href="https://PixelatedNate.github.io/project.html" title="My Project">My Project</a></p></b></u>
+</center>
 </div>
 </div>
 
@@ -110,7 +112,7 @@ body {
 </div>
 
 <div class="container">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <img id="expandedImg" style="width:75%">
   <div id="imgtext"></div>
 </div>

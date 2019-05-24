@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
 <body>
-<body bgcolor="#e6faff">
+<body bgcolor="#e6f7ff">
 <header>
 <div style="background-color:#85adad;color:white;padding:10px;">
 <div class = "navbar">
-<b><u><p align="center"> <a href="https://PixelatedNate.github.io/index.html" title="Home">Home</a></u>&nbsp;      
-<u> <a href="https://PixelatedNate.github.io/about.html" title="About Me">About Me</a></u> &nbsp;
-<u>My Project</p></b></u>
+<b><u><p align="center"> 
+<a href="https://PixelatedNate.github.io/index.html"><img src="https://i.ibb.co/Sm0MmLP/Home-Image.png" alt="Home-Image" border="0"></a>&nbsp; 
+<a href="https://PixelatedNate.github.io/about.html"><img src="https://i.ibb.co/KN2gxkr/About-Me-Image.png" alt="About-Me-Image" border="0"></a>&nbsp;
+<a href="https://PixelatedNate.github.io/project.html"><img src="https://i.ibb.co/Vgp6t2r/My-Project-Image.png" alt="My-Project-Image" border="0"></a>
 </div>
 </div>
+
+&nbsp;
 </body>
 </html>
