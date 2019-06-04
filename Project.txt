@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<body bgcolor="#e6f7ff">
+<body bgcolor="#e6faff">
 <header>
 <div style="background-color:#85adad;color:white;padding:10px;">
 <div class = "navbar">

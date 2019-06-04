@@ -6,9 +6,9 @@
 <div style="background-color:#002333;color:white;padding:10px;">
 <div class = "navbar">
 <center>
-<b><u> <a <img src="https://i.ibb.co/jkxHD47/Home-Image.png" alt="Home-Image" border="1"> href="https://PixelatedNate.github.io/index.html" title="Home">Home</a></u> &nbsp; 
-<u> <a href="https://PixelatedNate.github.io/about.html" title="About Me">About Me</a></u> &nbsp;
-<u><a href="https://PixelatedNate.github.io/project.html" title="My Project">My Project</a></p></b></u>
+<a href="https://PixelatedNate.github.io/index.html"><img src="https://i.ibb.co/Sm0MmLP/Home-Image.png" alt="Home-Image" border="0"></a>&nbsp;
+<a href="https://PixelatedNate.github.io/about.html"><img src="https://i.ibb.co/KN2gxkr/About-Me-Image.png" alt="About-Me-Image" border="0"></a>&nbsp;
+<a href="https://PixelatedNate.github.io/project.html"><img src="https://i.ibb.co/Vgp6t2r/My-Project-Image.png" alt="My-Project-Image" border="0"></a>
 </center>
 </div>
 </div>

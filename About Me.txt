@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html>
 <body>
-<body bgcolor="#e6faff">
+<body bgcolor="#e6f7ff">
 <header>
-<div style="background-color:#85adad;color:white;padding:10px;">
+<div style="background-color:#002333;color:white;padding:10px;">
 <div class = "navbar">
-<b><u><p align="center"> 
-<a href="https://PixelatedNate.github.io/index.html"><img src="https://i.ibb.co/Sm0MmLP/Home-Image.png" alt="Home-Image" border="0"></a>&nbsp; 
+<center>
+<a <img src="https://i.ibb.co/jkxHD47/Home-Image.png" alt="Home-Image" border="1"> href="https://PixelatedNate.github.io/index.html" title="Home">Home</a></u> &nbsp; 
 <a href="https://PixelatedNate.github.io/about.html"><img src="https://i.ibb.co/KN2gxkr/About-Me-Image.png" alt="About-Me-Image" border="0"></a>&nbsp;
 <a href="https://PixelatedNate.github.io/project.html"><img src="https://i.ibb.co/Vgp6t2r/My-Project-Image.png" alt="My-Project-Image" border="0"></a>
+</center>
 </div>
 </div>
 
 &nbsp;
+
+<img style="padding: 0 15px; float: left;" src="https://i.ibb.co/PQ4X4HQ/My-Photo.jpg" alt="My-Photo" border="0">
+<p style="margin-top: 20px;">
 My name is Nathan Jenkins, I was born in Perth, Western Australia in 1993 where I was introduced to technology at an early age by my brother. As I went to school, I found my passion move into graphic design and video game design. I graduated from Belmont City College in 2011 and spent the next 7 years honing my skills as a designer.
 
 In my spare time I'm an avid Dungeon & Dragons player, having been enjoying the series of games since 2007.
@@ -20,10 +24,12 @@ In my spare time I'm an avid Dungeon & Dragons player, having been enjoying the 
  
 As of 2019, I've been an online student at RMIT, studying IT. My fascination with IT relates to the coding side of things, starting from a young age I was always intrigued by how a bunch of symbols and numbers could result in amazing applications. 
 I knew I enjoyed video games as a child as well, so as my interest in IT grew, I wanted to find out how those video games I loved were made. This sparked my interest in to programming to the nth degree and I knew I had to learn more. 7 years later, here we are!
-I've been apart of multiple video game design projects but always felt like I wanted to do more than just submitting a tiny piece that may never be used, I wanted to make a game myself. Hence, my desire to head to RMIT, learn coding, so that I may become
+I've been apart of multiple video game design projects but always felt like I wanted to do more than just submitting a tiny piece of content that may never be used, I wanted to make a game myself. Hence, my desire to head to RMIT, learn coding, so that I may become
 a Indie Developer on my own.
-
-
+I also went to RMIT due to my requirement to study online. My schedule currently is just way too hectic to include physically going to a university campus and sitting in class, doing online courses really fit that requirement rather well. As for RMIT specifically, well, I figured
+studying Information Technology at the Melbourne Institute of Technology made a lot of sense.
+I'm hoping my studies at RMIT will give me the "foot in the door" to the world of IT as a career, as well as allow me to follow my passion of video game design. 
+</p>
 
 
 
