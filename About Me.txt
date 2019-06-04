@@ -13,6 +13,18 @@
 </div>
 
 &nbsp;
+My name is Nathan Jenkins, I was born in Perth, Western Australia in 1993 where I was introduced to technology at an early age by my brother. As I went to school, I found my passion move into graphic design and video game design. I graduated from Belmont City College in 2011 and spent the next 7 years honing my skills as a designer.
+
+In my spare time I'm an avid Dungeon & Dragons player, having been enjoying the series of games since 2007.
+
+ 
+As of 2019, I've been an online student at RMIT, studying IT. My fascination with IT relates to the coding side of things, starting from a young age I was always intrigued by how a bunch of symbols and numbers could result in amazing applications. 
+I knew I enjoyed video games as a child as well, so as my interest in IT grew, I wanted to find out how those video games I loved were made. This sparked my interest in to programming to the nth degree and I knew I had to learn more. 7 years later, here we are!
+I've been apart of multiple video game design projects but always felt like I wanted to do more than just submitting a tiny piece that may never be used, I wanted to make a game myself. Hence, my desire to head to RMIT, learn coding, so that I may become
+a Indie Developer on my own.
+
+
+
 
 
 </body>
